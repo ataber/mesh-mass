@@ -4,6 +4,8 @@
 
 Calculates mesh mass and area. Note that the volume does not make sense if the mesh does not represent a solid.
 
+Implementation comes from [this paper](http://chenlab.ece.cornell.edu/Publication/Cha/icip01_Cha.pdf)
+
 ## Usage
 
 [![NPM](https://nodei.co/npm/mesh-mass.png)](https://www.npmjs.com/package/mesh-mass)
