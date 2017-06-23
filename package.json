@@ -1,0 +1,30 @@
+{
+  "name": "mesh-mass",
+  "version": "1.0.0",
+  "description": "Calculate mass properties of a mesh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ataber/mesh-mass.git"
+  },
+  "keywords": [
+    "mesh",
+    "mass",
+    "area"
+  ],
+  "author": "Andrew Taber <andrew.e.taber@gmail.com> (http://taber.space)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ataber/mesh-mass/issues"
+  },
+  "homepage": "https://github.com/ataber/mesh-mass#readme",
+  "dependencies": {
+    "gl-vec3": "^1.0.3"
+  },
+  "devDependencies": {
+    "bunny": "^1.0.1"
+  }
+}
